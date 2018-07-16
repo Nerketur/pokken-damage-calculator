@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Information
+
+This app is meant to give an accurate damage amount to any sequence of moves given to it
+
+If all goes well, it should also be able to tell whether a combo will shift
+
+### Future work
+
+Future work will include the ability to tell damage in rage, or with any buff/debuff.
+
+Future work may include ability to tel whether a combo is possible, but this may be incorrect or not feasible
